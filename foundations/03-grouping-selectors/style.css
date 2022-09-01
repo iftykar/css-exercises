@@ -1,0 +1,15 @@
+.frst,
+.dbl {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.frst {
+    background-color: black;
+    color: white;
+    
+    }
+.dbl {
+    background-color: yellow;
+    color: green;
+    }
